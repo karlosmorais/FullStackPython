@@ -1,1 +1,1 @@
-Projeto de estudo Programação full stack Python
+Projeto de estudo Programação Full Stack Python - EBAC
